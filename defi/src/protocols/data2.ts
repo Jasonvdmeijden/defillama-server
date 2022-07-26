@@ -11355,6 +11355,28 @@ listedAt: 1650804679
   audit_links: ["https://drive.google.com/file/d/1DWRV7rb0fikVJeif41SEat4QlPeE2TFF/view"],
   listedAt: 1658824927,
 },
+{
+  id: "1930",
+  name: "BubbleSwap",
+  address: null,
+  symbol: "-",
+  url: "https://app.bubbleswap.io/",
+  description: "Bubbleswap is a decentralized peer-to-peer protocol that people can use to create liquidity and trade HTS tokens.",
+  chain: "Hedera",
+  logo: `${baseIconsUrl}/bubbleswap.png`,
+  audits: "0",
+  audit_note: null,
+  gecko_id: null,
+  cmcId: null,
+  category: "Dexes",
+  chains: ["Hedera"],
+  oracles: [],
+  forkedFrom: [],
+  module: "bubbleswap/index.js",
+  twitter: '@bubbleswapio',
+  audit_links: [],
+  listedAt: 1658832017
+},
 ]
 
 
